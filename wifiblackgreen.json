@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "responseCode": 200,
+  "message": "",
+  "dataAds": {
+    "adsOnOff": false,
+    "isTestMode": false,
+    "isConsentMsgShow": false,
+    "isBackInterstitialShow": false,
+    "adsTypeOpenServer": "google",
+    "adsTypeBannerServer": "google",
+    "adsTypeNativeServer": "google",
+    "adsTypeInterstitialServer": "google",
+    "openAdsTimer": 15000,
+    "interstitialClick": 3,
+    "randomAdType": "google,custom",
+    "nativeTheme": "custom",
+    "googleBannerId": "your_google_banner",
+    "googleInterstitialId": "your_google_interstitial",
+    "googleNativeId": "your_google_native",
+    "googleAppOpenId": "your_app_open_id",
+    "facebookBannerId": "your_facebook_banner_id",
+    "facebookInterstitialId": "your_facebook_inter_id",
+    "facebookNativeId": "your_facebook_native_id",
+    "maxBannerId": "your_max_banner_id",
+    "maxInterstitialId": "your_max_inter_id",
+    "maxSmallNativeId": "your_max_small_native_id",
+    "maxNativeId": "your_max_native_id",
+    "maxAppOpenId": "your_max_open_id",
+    "unityBannerId": "your_unity_banner_id",
+    "unityInterstitialId": "your_unity_inter_id",
+    "unityNativeId": "your_unity_native_id",
+    "vungleBannerId": "your_vungle_banner_id",
+    "vungleInterstitialId": "your_vungle_inter_id",
+    "vungleNativeId": "your_vungle_native_id",
+    "nativePerItem": "",
+    "publisherId": "",
+    "privacyPolicy": "",
+    "localPrivacyPolicy": "",
+    "localBanner": [
+      {
+        "bannerLink": "",
+        "bannerImage": ""
+      }
+    ],
+    "localNative": [
+      {
+        "nativeLink": "",
+        "nativeImage": "",
+        "nativeTitle": "",
+        "nativeSubTitle": "",
+        "nativeLogo": "",
+        "nativeButtonTitle": ""
+      }
+    ],
+    "localInterstitial": [
+      {
+        "interstitialLink": "",
+        "interstitialImage": "",
+        "interstitialTitle": "",
+        "interstitialSubTitle": "",
+        "interstitialLogo": "",
+        "interstitialButtonTitle": ""
+      }
+    ],
+    "localOpen": [
+      {
+        "appOpenLink": "",
+        "appOpenImage": "",
+        "appOpenTitle": "",
+        "appOpenSubTitle": "",
+        "appOpenLogo": "",
+        "appOpenButtonTitle": ""
+      }
+    ]
+  },
+  "data": {
+    "appLive": true,
+    "home_screen_native": true,
+    "add_device_screen_native": false,
+    "dvr_type_screen_native": false,
+    "server_screen_native": true,
+    "video_type_screen_native": true,
+    "camara_type_screen_native": false,
+    "ip_monitor_screen_native": true,
+    "camara_manual_screen_native": true,
+    "recent_screen_banner": false,
+    "home_screen_content": "<h6>QR code scanning APP for Android devices that also supports scanning and creating QR codes and barcodes in various formats.You can create various QR codes and barcodes, such as contacts, products, URL, Wi-Fi, text, E-mail</h6>",
+    "ocr_screen_content": "",
+    "isLiveUrlScreen": false,
+    "main_list": [
+      {
+        "id": "1",
+        "tool_name": "WiFi Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "2",
+        "tool_name": "Manual Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "3",
+        "tool_name": "IP Monitor",
+        "is_show": "true"
+      },
+      {
+        "id": "4",
+        "tool_name": "Camara Preview",
+        "is_show": "true"
+      }
+    ]
+  }
+}
