@@ -3,9 +3,9 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "adsOnOff": true,
+    "adsOnOff": false,
     "isTestMode": false,
-    "isConsentMsgShow": true,
+    "isConsentMsgShow": false,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
     "adsTypeBannerServer": "google",
@@ -15,10 +15,10 @@
     "interstitialClick": 2,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
-    "googleBannerId": "/21753324030,23059100595/app.camera.qubo.live.wifi.surveillance.cctv_Banner",
-    "googleInterstitialId": "/21753324030,23059100595/app.camera.qubo.live.wifi.surveillance.cctv_Interstitial",
-    "googleNativeId": "/21753324030,23059100595/app.camera.qubo.live.wifi.surveillance.cctv_Native",
-    "googleAppOpenId": "/21753324030,23059100595/app.camera.qubo.live.wifi.surveillance.cctv_AppOpen",
+    "googleBannerId": "your_google_banner",
+    "googleInterstitialId": "your_google_interstitial",
+    "googleNativeId": "your_google_native",
+    "googleAppOpenId": "your_app_open_id",
     "facebookBannerId": "your_facebook_banner_id",
     "facebookInterstitialId": "your_facebook_inter_id",
     "facebookNativeId": "your_facebook_native_id",
@@ -84,7 +84,7 @@
     ]
   },
   "data": {
-    "appLive": true,
+    "appLive": false
     "isLiveUrlScreen": true,
     "countryNative": false,
     "nameNative": true,
