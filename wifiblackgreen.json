@@ -3,9 +3,9 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "adsOnOff": true,
-    "isTestMode": true,
-    "isConsentMsgShow": true,
+    "adsOnOff": false,
+    "isTestMode": false,
+    "isConsentMsgShow": false,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
     "adsTypeBannerServer": "google",
@@ -75,7 +75,7 @@
     ]
   },
   "data": {
-    "appLive": true,
+    "appLive": false,
     "home_screen_native": true,
     "add_device_screen_native": false,
     "dvr_type_screen_native": false,
